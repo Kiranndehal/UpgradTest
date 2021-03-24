@@ -1,0 +1,53 @@
+h2
+{
+  text-decoration:underline;
+}
+body
+{
+  text-align:center;
+  background-color:#A9A9A9;
+}
+form
+{
+  display:inline-block;
+  background-color:#A9A9A9;
+}
+label
+{
+  font-family:Calibri;
+}
+input
+{
+  font-family:Calibri;
+}
+#label1
+{
+  margin-right:30px;
+}
+#label2
+{
+  margin-right:16px;
+}
+
+#label3
+{
+  margin-right:15px;
+}
+
+#btn
+{
+  
+  font-size:15px;
+  padding: 10px 40px;
+  margin-right:10px;
+  background-color:#DEB887;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+table
+{width:100%;
+border-collapse:collapse;
+
+}
